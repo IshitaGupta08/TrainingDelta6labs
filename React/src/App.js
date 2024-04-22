@@ -8,7 +8,7 @@ import Taskk from './components/Taskk';
 function App() {
   return (
     <div className="App">
-      <First name="Manik Gupta" profession="Associate Software developer"/> 
+      <First name="Ishita Gupta" profession="Associate Software developer"/> 
       {/* <Second/>  */}
       {/* <Third/>    */}
       {/* <Fourth/>   */}
