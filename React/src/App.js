@@ -12,6 +12,7 @@ function App() {
       {/* <Second/>  */}
       {/* <Third/>    */}
       {/* <Fourth/>   */}
+      console.log("ishita");
 
       <Taskk/>
     </div>
